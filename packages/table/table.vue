@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'fe-table',
+  name: 'fi-table',
   props: {
     values: {
       type: Array,
