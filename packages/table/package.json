@@ -1,9 +1,0 @@
-{
-  "name": "@fi-web/table",
-  "version": "0.0.9",
-  "publishConfig": {
-    "access": "public"
-  },
-  "license": "MIT",
-  "gitHead": "c1e51e751543e07ef23719cfe170900b920e65d7"
-}
