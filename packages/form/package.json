@@ -9,6 +9,9 @@
   "directories": {
     "lib": "lib"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/520Yanxiaofei/fi-wei/issues"
   },
-  "keywords": []
+  "keywords": [],
+  "gitHead": "b4b71959df9feef466109dbf7d331e95cb28b7be"
 }
