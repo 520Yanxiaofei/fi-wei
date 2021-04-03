@@ -5,14 +5,18 @@
   "scripts": {
     "dev": "cd docs && webpack-dev-server --inline --hot --port 8888 --open"
   },
-  "license": "MIT",
+  "license": "ISC",
   "keywords": [
     "vue",
     "markdown",
     "webpack",
     "loader"
   ],
-  "author": "qingwei-li <qingwei.li@gmail.com>",
+  "author": "xiaofei <813377155@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/520Yanxiaofei/fi-wei.git"
+  },
   "dependencies": {
     "cheerio": "^0.20.0",
     "highlight.js": "^9.4.0",
