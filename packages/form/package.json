@@ -1,5 +1,5 @@
 {
-  "name": "@fi-web/form-table",
+  "name": "@anaoei/form-table",
   "version": "1.0.4",
   "description": "> TODO: description",
   "author": "xiaofei <813377155@qq.com>",
@@ -26,5 +26,5 @@
     "url": "https://github.com/520Yanxiaofei/fi-wei/issues"
   },
   "keywords": [],
-  "gitHead": "4873d331d72cbc2da5c27abc973103caf35c7c24"
+  "gitHead": "0100ca13fd891352617f4a271bc4249c36a16a4d"
 }
