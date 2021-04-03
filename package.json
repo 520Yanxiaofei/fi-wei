@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "cd docs && webpack-dev-server --inline --hot --port 8888 --open"
   },
+  "license": "MIT",
   "keywords": [
     "vue",
     "markdown",
